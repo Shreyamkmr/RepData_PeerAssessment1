@@ -1,7 +1,10 @@
 ---
 title: "Reproducible Research Project 1"
 author: "Shreyam"
-
+output:
+  md_document:
+    variant: markdown_github
+---
 
 
 github repo for rest of specialization: [Data Science Coursera](https://github.com/Shreyamkmr/RepData_PeerAssessment1)
